@@ -4,17 +4,14 @@
 ## Тестирование формы регистрации
 Проводилось тестирование формы регистрации — тестирование с использованием техник эквивалентного разбиения и анализа граничных значений для проверки корректности заполнения и валидации полей
 
-[ссылка на Таблицу]
-https://docs.google.com/spreadsheets/d/1lSJ61eL_vxF0uGFSIY7g40Sy5FTb8fWlbNmOV08bqWM/edit?gid=0#gid=0
+[ссылка на Таблицу](https://docs.google.com/spreadsheets/d/1lSJ61eL_vxF0uGFSIY7g40Sy5FTb8fWlbNmOV08bqWM/edit?gid=0#gid=0)
 
 ## Тестирование фильтрации и сортировки
 Проводилось тестирование фильтарции и сортировки — применено попарное тестирование (Pairwise Testing) для эффективного покрытия комбинаций параметров
 
-[ссылка на Таблицу]
-https://docs.google.com/spreadsheets/d/1E0qOilnl_pTSAT5d0nGblcCF1q6vymaurHa29MLlcYY/edit?gid=0#gid=0
+[ссылка на Таблицу](https://docs.google.com/spreadsheets/d/1E0qOilnl_pTSAT5d0nGblcCF1q6vymaurHa29MLlcYY/edit?gid=0#gid=0)
 
 ## Тестирование модуля оплаты Paypal
 Проводилось тестирование модуля оплаты PayPal — тест-дизайн реализован с помощью таблицы принятия решений (Decision Table Testing), позволяющей проверить различные сценарии оплаты
 
-[ссылка на Таблицу]
-https://docs.google.com/spreadsheets/d/1HgyrB8WMH1OE2Z4pjCeEOdPfqdB1E_KY_d9zixEoXWY/edit?gid=0#gid=0
+[ссылка на Таблицу](https://docs.google.com/spreadsheets/d/1HgyrB8WMH1OE2Z4pjCeEOdPfqdB1E_KY_d9zixEoXWY/edit?gid=0#gid=0)
